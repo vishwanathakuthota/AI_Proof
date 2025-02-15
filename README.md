@@ -14,6 +14,18 @@ AIProof is an AI-powered proofreading tool that detects and highlights spelling 
 3. Retrieve the corrected **HTML output**.
 4. Seamlessly integrate the results into your applications.
 
+### Who Can Benefit from AIProof?
+
+- Lawyers – Ensure legal documents, contracts, and case summaries are free from grammatical errors and maintain professional clarity.
+- Researchers – Improve the quality of research papers, reports, and grant applications by eliminating errors and enhancing readability.
+- Scientists – Maintain accuracy in scientific publications, ensuring precise language and error-free documentation.
+- Students – Enhance essays, assignments, and theses with AI-driven proofreading, ensuring academic excellence.
+- Doctors & Medical Professionals – Ensure patient reports, medical research papers, and publications are error-free and well-structured.
+- Content Writers & Journalists – Maintain high editorial standards with automated grammar and style correction.
+- Educators – Improve teaching materials, research papers, and lecture content with AIProof’s intelligent error detection.
+
+This tool will significantly improve efficiency and reduce manual proofreading efforts. We encourage all teams to start incorporating AIProof into their processes.
+
 ## Installation
 
 ### Prerequisites
