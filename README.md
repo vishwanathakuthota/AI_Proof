@@ -4,8 +4,11 @@ AIProof is an AI-powered proofreading tool that detects and highlights spelling 
 
 ### Key Features:
 ✅ AI-based grammar correction using an LLM **BERT**
+
 ✅ Highlights spelling, punctuation, and syntax errors in **HTML**
+
 ✅ Easy-to-use **FastAPI** integration
+
 ✅ Supports bulk processing for large-scale content verification
 
 ### How It Works:
