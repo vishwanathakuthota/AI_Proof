@@ -2,11 +2,17 @@
 
 AIProof is an AI-powered proofreading tool that detects and highlights spelling mistakes, grammar issues, punctuation errors, and non-idiomatic expressions in structured HTML documents. It is designed as an API service using **FastAPI** for easy integration into products.
 
-## Features
-- Detects and highlights spelling, grammar, and punctuation errors.
-- Uses **BERT (bert-base-cased)** for AI-based grammar correction.
-- Accepts structured HTML files and returns corrected HTML with marked errors.
-- Built with **FastAPI** for seamless integration.
+### Key Features:
+✅ AI-based grammar correction using an LLM **BERT**
+✅ Highlights spelling, punctuation, and syntax errors in **HTML**
+✅ Easy-to-use **FastAPI** integration
+✅ Supports bulk processing for large-scale content verification
+
+### How It Works:
+1. Upload an **HTML document** via the API.
+2. AIProof scans the text and **highlights errors**.
+3. Retrieve the corrected **HTML output**.
+4. Seamlessly integrate the results into your applications.
 
 ## Installation
 
