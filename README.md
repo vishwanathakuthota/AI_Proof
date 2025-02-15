@@ -1,4 +1,4 @@
-# AIProof
+# AI Proof: Your AI-Powered Proofreading Assistant(Agent)
 
 AIProof is an AI-powered proofreading tool that detects and highlights spelling mistakes, grammar issues, punctuation errors, and non-idiomatic expressions in structured HTML documents. It is designed as an API service using **FastAPI** for easy integration into products.
 
